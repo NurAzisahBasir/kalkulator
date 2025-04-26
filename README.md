@@ -1,0 +1,2 @@
+# kalkulator
+with AI helped
